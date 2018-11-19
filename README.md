@@ -5,7 +5,7 @@ This repository contains all Photoshop Actions (.atn files) used to speed up the
 ## How to use the mockups with PS Actions
 These Photoshop Actions are only required in some mockups and this is in order to streamline customization and facilitate their use, please follow these steps to edit the mockups using Actions:
 
-1. Download the Latest [Actions Pack](https://github.com/CarlosViloria/Mockup-Actions-Pack/releases/latest)  
+1. Download the Latest [Actions Pack](https://github.com/CarlosViloria/cv-Mockup-Action-Pack/releases/latest)  
 2. Install the actions by double clicking to the CV Mockups Action Pack.atn file
 3. Open the Mockup in Photoshop
 4. Place your design inside the blue layers -these are Smart Objects, so to open them you just have to double click on the icon or right click on the layer and select Edit Contents-.
